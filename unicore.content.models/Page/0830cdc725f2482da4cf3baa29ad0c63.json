@@ -4,14 +4,14 @@
   "language": "eng_GB", 
   "title": "You can be great with money!", 
   "primary_category": "a411e913f1c84d479befbd6af6024965", 
-  "created_at": "2016-06-12T10:46:40.821686+00:00", 
+  "created_at": "2016-06-12T10:46:40+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2016-06-12T10:46:40.821915+00:00", 
+  "modified_at": "2016-06-12T10:46:50.973615+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
