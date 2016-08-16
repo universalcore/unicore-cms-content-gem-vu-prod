@@ -1,17 +1,17 @@
 {
-  "subtitle": "Pas seulement aujourd'hui, mais pour toujours.", 
-  "description": "", 
+  "subtitle": "", 
+  "description": "Pas seulement aujourd'hui, mais pour toujours.", 
   "language": "fre_FR", 
   "title": "Sois la meilleure pour ta meilleure amie ! ", 
   "primary_category": "c63540b99f394f83b8029076d016710b", 
   "created_at": "2016-07-26T15:33:01+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-07-28T23:31:42.572053+00:00", 
+  "modified_at": "2016-08-16T11:58:42.650534+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
